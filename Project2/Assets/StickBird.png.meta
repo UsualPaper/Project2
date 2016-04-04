@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 63624d4871ba64a46b63b77e7dd6b27a
+timeCreated: 1459724374
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StickBird_0
+    21300002: StickBird_1
+    21300004: StickBird_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: StickBird_0
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2174
+        width: 616
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 191.78728, y: -36.30237}
+        - {x: 163.78728, y: -19.302368}
+        - {x: 99.78728, y: 5.697632}
+        - {x: 64.78728, y: 0.69763184}
+        - {x: -11.212723, y: 14.697632}
+        - {x: -78.21272, y: 94.69763}
+        - {x: -151.21272, y: 94.69763}
+        - {x: -187.21272, y: 86.69763}
+        - {x: -191.21272, y: 63.69763}
+        - {x: -191.21272, y: -2.3023682}
+        - {x: -179.21272, y: -50.30237}
+        - {x: -110.21272, y: -94.30237}
+        - {x: 70.78728, y: -94.30237}
+        - {x: 99.78728, y: -91.30237}
+        - {x: 141.78728, y: -86.30237}
+        - {x: 191.78728, y: -60.30237}
+    - name: StickBird_1
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 2034
+        width: 641
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 118.30487, y: -1.1872559}
+        - {x: 199.30487, y: 19.812744}
+        - {x: 200.30487, y: 24.812744}
+        - {x: 200.30487, y: 54.812744}
+        - {x: 108.30487, y: 92.812744}
+        - {x: 84.30487, y: 94.812744}
+        - {x: -114.69513, y: 94.812744}
+        - {x: -192.69513, y: 53.812744}
+        - {x: -133.69513, y: 7.812744}
+        - {x: -198.69513, y: -11.187256}
+        - {x: -198.69513, y: -58.187256}
+        - {x: -164.69513, y: -92.187256}
+        - {x: -112.69513, y: -94.187256}
+        - {x: -75.69513, y: -94.187256}
+        - {x: -62.69513, y: -90.187256}
+        - {x: 14.304871, y: -13.187256}
+        - {x: 90.30487, y: -8.187256}
+    - name: StickBird_2
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2171
+        width: 632
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 184.0636, y: 29.335815}
+        - {x: 113.0636, y: 52.335815}
+        - {x: -121.9364, y: 52.335815}
+        - {x: -195.9364, y: -1.6641846}
+        - {x: -195.9364, y: -24.664185}
+        - {x: -194.9364, y: -26.664185}
+        - {x: -186.9364, y: -32.664185}
+        - {x: -160.9364, y: -51.664185}
+        - {x: 106.0636, y: -51.664185}
+        - {x: 197.0636, y: -20.664185}
+        - {x: 197.0636, y: 12.335815}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
