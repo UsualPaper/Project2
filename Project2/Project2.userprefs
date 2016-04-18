@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/camManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/character.cs" Line="81" Column="13" />
+      <File FileName="Assets/Scripts/GameMaster.cs" Line="6" Column="30" />
+      <File FileName="Assets/Scripts/ScoreText.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/StatsManager.cs" Line="6" Column="30" />
+      <File FileName="Assets/Scripts/cameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/camManager.cs" Line="45" Column="21" />
+      <File FileName="Assets/Scripts/collectable.cs" Line="24" Column="23" />
+      <File FileName="Assets/Scripts/loadScene.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scripts/switchCharacter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UIController.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

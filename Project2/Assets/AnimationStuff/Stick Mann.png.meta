@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 2e845e886848d374a96c34ed99d1eaba
+timeCreated: 1459724340
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Stick Mann_0
+    21300002: Stick Mann_1
+    21300004: Stick Mann_2
+    21300006: Stick Mann_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Stick Mann_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1766
+        width: 184
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.281822, y: 196.99036}
+        - {x: -35.718178, y: 196.99036}
+        - {x: -56.718178, y: 131.99036}
+        - {x: -56.718178, y: -195.00964}
+        - {x: -34.718178, y: -195.00964}
+        - {x: -12.718178, y: -161.00964}
+        - {x: -3.7181778, y: -111.00964}
+        - {x: 36.281822, y: -195.00964}
+        - {x: 58.281822, y: -195.00964}
+        - {x: 58.281822, y: 189.99036}
+    - name: Stick Mann_1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1797
+        width: 312
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.843033, y: -122.770874}
+        - {x: 68.15697, y: -180.77087}
+        - {x: 93.15697, y: -185.77087}
+        - {x: 98.15697, y: -185.77087}
+        - {x: 98.15697, y: 126.229126}
+        - {x: 63.156967, y: 186.22913}
+        - {x: -79.84303, y: 186.22913}
+        - {x: -87.84303, y: -117.770874}
+        - {x: -51.843033, y: -105.770874}
+        - {x: -46.843033, y: -94.770874}
+        - {x: -31.843033, y: -83.770874}
+        - {x: -96.84303, y: -172.77087}
+        - {x: -96.84303, y: -182.77087}
+        - {x: -86.84303, y: -185.77087}
+        - {x: -71.84303, y: -185.77087}
+        - {x: -50.843033, y: -165.77087}
+        - {x: -38.843033, y: -150.77087}
+        - {x: -32.843033, y: -142.77087}
+    - name: Stick Mann_2
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1755
+        width: 184
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.291504, y: 197.6637}
+        - {x: -57.291504, y: 166.6637}
+        - {x: -57.291504, y: 11.663696}
+        - {x: -54.291504, y: -26.336304}
+        - {x: -45.291504, y: -93.3363}
+        - {x: -27.291504, y: -97.3363}
+        - {x: -20.291504, y: -89.3363}
+        - {x: -22.291504, y: -57.336304}
+        - {x: -17.291504, y: -64.3363}
+        - {x: -24.291504, y: -134.3363}
+        - {x: -57.291504, y: -182.3363}
+        - {x: -57.291504, y: -192.3363}
+        - {x: -54.291504, y: -197.3363}
+        - {x: 53.708496, y: -197.3363}
+        - {x: 57.708496, y: -191.3363}
+        - {x: 57.708496, y: 163.6637}
+        - {x: 51.708496, y: 177.6637}
+        - {x: 35.708496, y: 195.6637}
+        - {x: 31.708496, y: 197.6637}
+    - name: Stick Mann_3
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1757
+        width: 277
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.789673, y: -194.0951}
+        - {x: 24.789673, y: -195.0951}
+        - {x: 28.789673, y: -195.0951}
+        - {x: 28.789673, y: -190.0951}
+        - {x: 26.789673, y: -188.0951}
+        - {x: 23.789673, y: -189.0951}
+      - - {x: 86.78967, y: -174.0951}
+        - {x: 86.78967, y: 195.9049}
+        - {x: -86.21033, y: 195.9049}
+        - {x: -86.21033, y: -43.095093}
+        - {x: -74.21033, y: -32.095093}
+        - {x: -68.21033, y: -26.095093}
+        - {x: -7.210327, y: -177.0951}
+        - {x: 17.789673, y: -177.0951}
+        - {x: 40.789673, y: -134.0951}
+        - {x: 45.789673, y: -84.09509}
+        - {x: 60.789673, y: -155.0951}
+      - - {x: -56.210327, y: -82.09509}
+        - {x: -54.210327, y: -84.09509}
+        - {x: -51.210327, y: -83.09509}
+        - {x: -51.210327, y: -79.09509}
+        - {x: -53.210327, y: -77.09509}
+        - {x: -56.210327, y: -78.09509}
+      - - {x: -10.210327, y: -70.09509}
+        - {x: -8.210327, y: -72.09509}
+        - {x: -5.210327, y: -71.09509}
+        - {x: -5.210327, y: -68.09509}
+        - {x: -7.210327, y: -66.09509}
+        - {x: -10.210327, y: -67.09509}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
